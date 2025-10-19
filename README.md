@@ -1,0 +1,1 @@
+# global-hotel-api
